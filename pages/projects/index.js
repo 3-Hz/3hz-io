@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Link from 'next/link'
 import styles from '../../styles/Home.module.css'
 
-export default function Art() {
+export default function Projects() {
   return (
   <div className={styles.container}>
 
@@ -13,7 +13,7 @@ export default function Art() {
 
     <div className={styles.main}>
 
-      <h1 className={styles.title}>Art</h1>
+      <h1 className={styles.title}>Projects</h1>
 
       <div className={styles.grid}>
         <a className={styles.card} href="http://kaleidovision.3hz.io">
