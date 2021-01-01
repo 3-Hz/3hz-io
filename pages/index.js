@@ -32,9 +32,9 @@ export default function Home() {
             </a>
           </Link>
 
-          <Link href="/art">
+          <Link href="/projects">
             <a className={styles.card}>
-              <h3>Art &rarr;</h3>
+              <h3>Projects &rarr;</h3>
             </a>
           </Link>
 
