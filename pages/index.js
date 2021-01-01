@@ -16,9 +16,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          "The only way to make sense out of change
-          {'\n'} is to plunge into it, move with it,
-          {'\n'} and join the dance." - Alan Watts
+          "The only way to make sense out of change is to plunge into it, move with it, and join the dance." - Alan Watts
         </p>
 
         <div className={styles.grid}>
