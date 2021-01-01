@@ -1,4 +1,4 @@
 module.exports = {
-  basePath: '/3hz-io',
-  assetPrefix: '/3hz-io'
+  //basePath: '/3hz-io',
+  //assetPrefix: '/3hz-io'
 }
