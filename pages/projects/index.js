@@ -21,6 +21,12 @@ export default function Projects() {
         </a>
       </div>
 
+      <div className={styles.grid}>
+          <Link className={styles.card} href="/projects/linus-rage">
+            <a className={styles.card}>Linus-Rage</a>
+          </Link>
+      </div>
+
     </div>
 
     <footer className={styles.footer}>
