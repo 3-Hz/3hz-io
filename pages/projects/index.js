@@ -22,9 +22,9 @@ export default function Projects() {
       </div>
 
       <div className={styles.grid}>
-          <Link className={styles.card} href="/projects/linus-rage">
-            <a className={styles.card}>Linus-Rage</a>
-          </Link>
+        <a className={styles.card} href="http://linusrage.3hz.io">
+          Linus_Rage
+        </a>
       </div>
 
     </div>
