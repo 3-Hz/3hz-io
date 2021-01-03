@@ -1,7 +1,7 @@
 import React from 'react'
 import Head from 'next/head'
 import Link from 'next/link'
-import Image from 'next/image'
+
 import styles from '../../styles/Linus_Rage.module.css'
 import axios from 'axios'
 
@@ -37,9 +37,8 @@ class Linus_Rage extends React.Component {
 
         <h1 className={styles.header} id="linus-header">
 
-          <div className={styles.splash}>
-            <Image src="/linus-rage/linus.png" width={1500} height={365}/>
-            <Image src="/linus-rage/rage.png" width={2190} height={804}/>
+          <div className={styles.splash_container}>
+            <img className={styles.splash} src="/linusrage.png"/>
           </div>
         </h1>
 
