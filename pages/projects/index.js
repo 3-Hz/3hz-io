@@ -17,13 +17,14 @@ export default function Projects() {
 
       <div className={styles.grid}>
         <a className={styles.card} href="http://kaleidovision.3hz.io">
-          Kaleidovision
+          <h3>Kaleidovision</h3>
+          <p><em>Epilepsy Warning</em></p>
         </a>
       </div>
 
       <div className={styles.grid}>
         <a className={styles.card} href="http://linusrage.3hz.io">
-          Linus_Rage
+          <h3>Linus_Rage</h3>
         </a>
       </div>
 
