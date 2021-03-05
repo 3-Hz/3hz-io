@@ -16,8 +16,14 @@ export default function Contact() {
         <h1 className={styles.title}>Contact</h1>
 
         <div className={styles.grid}>
-          <a className={styles.card}>
-            WIP
+          <a className={styles.card} href="mailto:edward.h.zhao@gmail.com">
+            Email: edward.h.zhao@gmail.com
+          </a>
+          <a className={styles.card} href="https://www.linkedin.com/in/ehzhao/">
+            LinkedIn: linkedin.com/in/ehzhao
+          </a>
+          <a className={styles.card} href="https://github.com/3-Hz">
+            GitHub: github.com/3-Hz
           </a>
         </div>
 

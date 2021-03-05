@@ -31,6 +31,7 @@ export default function Projects() {
       <div className={styles.grid}>
         <a className={styles.card} href="http://you.vrsus.me">
           <h3>VRSUS</h3>
+          <p><em>May take a few seconds to load</em></p>
         </a>
       </div>
 
