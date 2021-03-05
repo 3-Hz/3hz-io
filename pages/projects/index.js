@@ -28,6 +28,12 @@ export default function Projects() {
         </a>
       </div>
 
+      <div className={styles.grid}>
+        <a className={styles.card} href="http://you.vrsus.me">
+          <h3>VRSUS</h3>
+        </a>
+      </div>
+
     </div>
 
     <footer className={styles.footer}>
